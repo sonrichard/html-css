@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body {
+    background-image: linear-gradient(to bottom, #9dee9dd2, #0de70dc9);
+}
+h1 {
+    color: rgb(12, 202, 202);
+}
+h1#principal {
+    text-align: center;
+}
+h2 {
+    color: blue
+    ;
+}
+h2.basico {
+    color: rgb(235, 243, 115);
+    font-weight: bold;
+}
+p {
+    text-align: justify;
+}

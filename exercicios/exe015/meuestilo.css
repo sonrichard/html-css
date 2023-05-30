@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+h1 {
+    color: antiquewhite;
+}
+h1 {
+    color: antiquewhite
+}
+p {
+    color: aquamarine
+}
+p {
+    text-align: justify;
+}
+h2 {
+    color: aquamarine;
+}
